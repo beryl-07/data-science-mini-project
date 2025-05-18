@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e773901d-98db-476c-ac52-cf25c40b04ec" name="Changes" comment="update eligibility decision tree labels and workspace configuration">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="e773901d-98db-476c-ac52-cf25c40b04ec" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/exercice-1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/exercice-1.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -118,7 +117,7 @@
       <workItem from="1747156598409" duration="15046000" />
       <workItem from="1747499379144" duration="8237000" />
       <workItem from="1747565905133" duration="6815000" />
-      <workItem from="1747573396750" duration="5685000" />
+      <workItem from="1747573396750" duration="7772000" />
     </task>
     <task id="LOCAL-00001" summary="update eligibility decision tree labels and workspace configuration">
       <option name="closed" value="true" />
@@ -128,7 +127,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747568176245</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update eligibility decision tree labels and workspace configuration">
+      <option name="closed" value="true" />
+      <created>1747579774474</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1747579774474</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
