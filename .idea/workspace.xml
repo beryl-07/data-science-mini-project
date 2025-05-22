@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e773901d-98db-476c-ac52-cf25c40b04ec" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exercice-1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/exercice-1.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +77,7 @@
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;exercice-1&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -118,6 +119,10 @@
       <workItem from="1747499379144" duration="8237000" />
       <workItem from="1747565905133" duration="6815000" />
       <workItem from="1747573396750" duration="7772000" />
+      <workItem from="1747823325955" duration="791000" />
+      <workItem from="1747901994682" duration="1668000" />
+      <workItem from="1747905693419" duration="353000" />
+      <workItem from="1747906952314" duration="1251000" />
     </task>
     <task id="LOCAL-00001" summary="update eligibility decision tree labels and workspace configuration">
       <option name="closed" value="true" />
